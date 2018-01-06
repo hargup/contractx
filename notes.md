@@ -314,29 +314,39 @@ enforcible.
 * In case of mutual mistakes, "the deal lies where it falls".
 
 
-*
+* Example (Wichelhaus v. Raffles): Raffles was a supplier of cotton from Bombay
+    to Liverpool and Wichelhaus was a cotton dealer in Liverpool, because of the American
+    Civil War the price of cotton were fluctuating greatly. Wichelhaus made a
+    deal with Raffles to buy a certain amount of cotton at a certain price from
+    a ship named "Peerless" which was to arive months later. After the Ship
+    arived in April, Wichelhaus refused to buy the cotton because he claimed
+    that he made a deal about a ship named "Peerless" which was to arrive in
+    Feb. It turned out that there were two ships named "Peerless", the contract
+    didn't mentioned the name of the caption or the date of the departure which
+    could have differentiated the two ships. The court called the deal off
+    because the two parties weren't contracting about the same thing.
+
 
 
 ## Unilateral Mistakes
 
 * Unilateral Mistake -- contract is valid.
 
-* Case 1: You gambled on a horse and it lost, it was your mistake and you
+* Example: You gambled on a horse and it lost, it was your mistake and you
  cannot say it was a mistake to bet on that horse, I want my money back,
  because it wasn't a mistake from the side of people selling the gamble.
 
-* Case 2: Discussed earlier, both sides are mistakes.
 
 * You need to be careful about exactly what you are contracting about it, in
-    the case of the gambler, the contract is about hope/risk that the horse
-    will win, both parties knows that, no new fact is revealed when the race is
-    over. As Prof Fried said "Where the contract is really about risk and both
-    parties know that it's about risk, and they're both guessing, then there is
-    no read for the court to let teh party who gambles and looses off the
-    hook."
+the case of the gambler, the contract is about hope/risk that the horse will
+win, both parties knows that, no new fact is revealed when the race is over. As
+Prof Fried said "Where the contract is really about risk and both parties know
+that it's about risk, and they're both guessing, then there is no read for the
+court to let the party who gambles and looses off the hook."
 
 * Things are different in cases where the mistakes are not about risk, for
-    innocent mistakes courts allow the mistaken party to call off the deal.
+innocent mistakes courts sometimes allow the mistaken party to call off the
+deal.
 
 ## Fraud/Cheating
 
@@ -348,22 +358,18 @@ that person call off the contract.
 * If you don't lie, you can make a deal on private information, you don't have
     to give it away.
 
-## Regulations
-
-* Not everything is a contract. In the misleading advertisement case by Coca
-    Cola, POM can sue Coca Cola for unfair competition because it is the one
-    who really looses by it.
-
-
 ## Krell v. Henry; Frustation
 
 Krell advertised that for 75 pounds, he will allow anyone to view the
 procession of king's coronation from his window. Henry paid 25 pounds in
 advanced and promised to pay rest two days before the procession, though before
 that the king became ill and the procession was cancelled. Henry refused to pay
-the rest. Krell sued to get 50, and Henry paid to sue 25.
+the rest. Krell sued to get 50 pound, and Henry paid to sue 25.
 
-Krell's argument: A deal is a deal, he didn't promissed to make the procession happen. Henry can still use his window on the given day. Henry: The basic premise of the deal was that there will be procesion. Court agreed and called the deal off.
+Krell's argument: A deal is a deal, I didn't promissed to make the procession
+happen. Henry can still use his window on the given day. Henry's argument: The basic
+premise of the deal was that there will be procesion. Court agreed and called
+the deal off.
 
 To get such results:
 
@@ -379,30 +385,21 @@ ship had to take a longer route. The shipping company sued to get the extra
 cost, but it lost because the court said that the contract was to get good from
 A to B, it is your risk if something like the war happens, also cost isn't hell
 lot only 1/3 of the original cost. If it were 10 times or something then things
-are different.
+would have been different.
 
-* "Commercially impracticability"
 
-* Other examples; An actor dies during production of a movie, or music hall
-    burns down while a contact for concern is in play and such example, the
-    deal is off. Often parties takes insurance for such cases.
+* Other examples: An actor dies during production of a movie, or music hall
+    burns down while production houses have contact for concern. In such
+    example, the deal is off. Often parties buy insurance for such cases.
 
 * Force Majoure -- A clause about major unhappening, the clause specific the
     default rule, usually it is the the deal is off
 
-* These things are about risks which the contract is not about, in magnitude or
-    nature.
-
-* In cases where only one party claims surprise, the deal is not called off.
+* In cases where only one party claims surprise and the other party was aware
+    of possibility of such happening then the deal is not called off.
 
 
 
-## Practical Lessons
-
-* Keep the contract explicit, if you anticipate some unexpected event, put it
-    in the contract.
-
-* The contract is based on fraud or lie, you can call the contract off.
 
 ## Cases:
 
