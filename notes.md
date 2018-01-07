@@ -414,7 +414,17 @@ would have been different.
 
 
 \newpage
-# Unit 6:
+# Unit 6: Interpretation
+
+## Unit Summary
+
+In this unit we discussed how contracts are interpretted. Though it is not
+necessary to put contracts in writing, they often are written and signed, when
+a particular term or phrase is defined in contract the literal interpretation
+is important, though everything needs to read in the context and purpose of the
+contract.
+
+* * *
 
 * A contract doesn't have to be in writing to be binding.
 
@@ -433,62 +443,61 @@ would have been different.
 * There is mutual aim for a contract, the contract needs to be interpreted in
     its aim.
 
-* Contract is a cooperative act, the duties needs to be carried out in good
-    faith.
+* Contract is a cooperative act, the parties needs to act in good faith. For
+every promise there is an implicit promise that the parties will not hinder
+each in performing their obligations.
+
+
 
 ## Twin Tower Case
 
-When buying an insurance there is usually a lower limit of the claim you can
-ask for and an upper limit and the limits are defined "per occurance" of some
-incident. In 9/11 two planes had hit the twin towers with difference of 18
-minutes. Would that be considered one occurance or two occurances. The "owner"
-of the building had multiple insurance policies, in some word "occurance" was
-defined and in others it wasn't. In the cases where it wasn't defined the word
-"occurance" was open to interpretation.
+When buying an insurance there is usually a lower and upper limit of the claim
+you can ask for, these limits are defined "per occurance" of some incident. In
+9/11 two planes had hit the twin towers with difference of 18 minutes. Would
+that be considered one occurance or two occurances. The "owner" of the building
+had multiple insurance policies, in some insurance contracts word "occurance"
+was defined and in others it wasn't. In the cases where it wasn't defined the
+word "occurance" was open to interpretation and various set of juries gave
+different judgements.
 
-## Fried Frozen Foods
+## Fried Frozen Foods 
 
-THere was a settlement where one party (investor) had an option to get $7500 * (x - $7)
-where x is the price of a share on a particular date.
+There was a settlement between (hypothetical) Fried Frozen Foods and it
+investors. The settlement was the investor will get 7500 * (x - 7) USD where x
+is the price of a share of Fried Frozen Foods on a particular date.
 
 Before the date, the company did a reverse stock split, where they combined
-multiple stocks to make a bigger stock. Now the value of a single stock was
-large $20, so the investor claimed their settlement for 13*7500 dollars.
+multiple shares to make a bigger share, in this case it was 4 shares combined
+to make 1 share. So the price of shares went from 9 dollar to 36 dollars so the
+investor claimed their settlement for (36-7)*7500 = 217500 dollars. The
+company refused. The investors claimed that the formula was very clear cut and
+explicitly mentioned in the contract, the company argued that the reverse stock
+split is only a paper change, hence they should be compensated on the share
+value where the reverse stock split didn't happen, i.e., 9 dollars per share,
+that is only (9-7)*7500 = 15000 dollars.
 
-The court interpreted in the terms that the point of such a contract was for
-the investor to participate in the growth of the company, stock reverse split
-is only a paper change so that doesn't entitle you to anything.
+The court said that the point of giving settlements through this formula was to
+encourage the investor to participate in the growth of the company, hence
+humongous inflation in settlement though paper changes such as stock reverse
+split shouldn't be allowed and the settlement should take place considering the
+price as 9 dollars per share.
 
 
 ## Painter Example
 
-The contract between a builder and painter is that she will get 2$ per square
-foot. Now you have a wall with windows and doors, you can interpret it in such
-a way that builder only pays per square feet of paint, but custom is that the
-amount of calculated by multiplying length and breadth, she uses less paint but
-she has to be more careful in painting around the openings so it is a
-reasonable compromise.
+Suppose the contract between a builder and painter is that she will get 2$ per
+square foot. Now need to get a wall with windows and doors painted, you can
+interpret "2$ per squre feet" as 2$ per square feet of paint ,i.e., considering
+area of wall minus the area of doors and windows. Though painting a wall with
+doors and windows is also more difficult because you have to be extra careful
+without painting around these opening. Hence, the custom is that the amount is
+calculated by multiplying length and breadth of the wall, which sort of
+compensates her extra effort with saving on paint.
 
-So the context is important in determining what do the words 2 dollar per
-square feet mean.
+So unless the contract is very precise what does "2 dollar per square feet"
+means, the terms will be interpreted in the context of the customs of the
+trade.
 
-## New York Example
-
-The parties needs to act in good faith. For every promise there is an implicit
-promise that the parties will not hinder each in performing their obligations.
-
-## Mistake, Frustration and Interpretation
-
-In all the examples we talked about in the mistakes section, the mistakes is
-dependent on what was the purpose of the contract and hence it is also an
-question of interpretation.
-
-
-## Practical Lessons
-
-* If you think the other party might want to interpret a particular word in
-    their benefit, define it in the contract, though don't try to be too
-    clever.
 
 ## Unit Test: Short Answer
 
@@ -526,18 +535,28 @@ question of interpretation.
 (3) I find the argument from the side of Hollywood Production House more persuasive. The argument from Jumer's side focuses on the literal interpretation of the work "successful partnership", though taking the production context in picture, given Jumer's behaviour the partnership cannot be considered successful. Moreover it would unfair to force Hollywood Production Studio to produce a sequel because that will be saying Jumer can behave whatever way he wants but Hollywood Production House will have to create the sequel anyhow. If it were known that Jumer acted the way she didn't even though she knew that it will cause considerable trouble to the production house, then it can be said that she acted in bad faith and hence the contract is unenforcible.
 
 
-# Unit 7:
+# Unit 7: Part 1: Remedies and Specific Performance
+
+## Unit Summary
+
+In case a party fails to their contractual promise, court can either ask that
+party to keep their promise or award damages to the other party. The usual way
+is to award damages 
+
+---
 
 * Specific Performance -- Do X or go to jail
+
 * Damages -- You are only entitled to your expectation. The expectation comes
     from what the deal was.
     "the victim of the breach is entitled to what he would have got if the promise was kept"
-* Detrimental Reliance
 
 * Usually the court asks to pay money, not specific performance.
 
 * Why damages in money:
+
     * Keeps things simple
+
     * Forcing people to do something might lead to a dead weight loss
 
 * Court don't want to get into the reasons of why you didn't keep your part of
@@ -551,79 +570,63 @@ question of interpretation.
     invested that in Mutual Funds for 40% gain, then you have to prove that you
     certainly would have invested that money in mutual funds.
 
-## Example:
+## Examples:
 
 * I and a seller had a deal where I promised to pay $500 for a desk and the
     dealer promised to deliver the desk.
 
 Case 1: He delivers the desk and I don't pay. He sues and he can ask for
-damages of $500 as that was deal, he cannot claim that the desk was worth $750,
-or I cannot claim that the desk was worth $250
+damages of $500 as that was deal, he would have got only $500 if I kept my
+promise, he cannot claim that the desk was worth $750, or I cannot claim that
+the desk was worth $250.
 
 Case 2: I paid but he doesn't deliver. If the desk the worth $750 and I can
-prove it, then I can ask for $750 for damages.
+prove it, then I can ask for $750 for damages because I would have got a $750
+worth desk if the seller had kept his promise.
 
-(There is an assmetry here, the seller always gets $500 but the buyer can get
-more)
 
 * Me and the seller had a deal for a desk for $500, I promised to send him a cheque and he
     promissed to deliver the desk when he gets it. I never give him the cheque:
 
-Case 1: He sues me for $500, gets the money and deliver the desk
-Case 2: Because he had to hold the desk for me and then the business goes down
-and he had to sell it for $250 to someone, he can sue me for $250
+Case 1: He sues me for $500, gets the money and deliver the desk to me.
+
+Case 2: Because he had to hold the desk for me and then the business went down
+and he had to sell it for $250 to someone, he can sue me for $250 as lost
+profit assuming I had kept my promise.
+
 Case 3: He sells the desk for $750 to someone, he cannot sue me for anything,
 because in that case he'll have to deliver the desk to me.
 
-* John Wonder had a deal with Groves that he'll use his land for a certain
-* period of time and will pay him $105K and will return the land in a good
-    condition. He paid the amount, used the land but didn't fix it. Now two way
-    to calculate damages: Fixing the land will increase its value only by $13K
-    Fixing the land will cost $60K
-
-* Similar case: PP family leased out there land to a coal company, the promise
-    was that a certain amount of money, they'll return the land in fixed
-    condition
-    Fixing the land will increase its value only by $300
-    Fixing the land will cost $2500
-
-* The value on the market might be way less than what it is worth to me.
+## Hector Martinez Co. v. Southern Pacific Transport
 
 Mr. X had a exhibition of his invention to generate interest about it in the
-market, he hired a shiping company to deliver his intevention to the place by a
-particular date, but they were too late.
+market, he hired a shiping company to deliver his intevention and the company
+promised to deliver the invention to the display place by a particular date,
+but they were too late. Mr. X had spent a quite a lot of money in travel, hotel
+booking and preperations, but he couldn't display his invention because the
+delay by the shipping company. He sued.
 
-"We have no way to know wether your invention would have been successful or
-not, we have no way to know that, We'll compensate you for the money you spent
-to get that chance of success, i.e., the money you spent on hotel, flight
-tickets, your time and your assistant's time"
+How much damages should he get?
 
-(Stray thought: THere are so many "inefficiencies in Indian system because it
-is soo hard to enforce a contract or seek damages")
+It is diffcult to conclude what would have happened if the shipping company had
+kept its promise, his invention might have generated a lot of interest, it
+might not have, but the court comepensated him for the money he spent to get
+that chance of success, i.e., the money he spent on hotel, flight tickets, his
+time and his assistant's time"
 
-## Cases
-
-Groves v. John Wonder
-
-Lumley v. Gye
-
-Hector Martinez Co. v. Southern Pacific Transport
-
-## Question
-
-Penalties v. Damages?
 
 ## Non-Compete Clause and Specific Performance
 
 Case: Lumley hired Johana Wagner to sing at his Opera house, Gye came in
-offered Wagner more money and convinced her to sing at HIS Opera house. Lumley
+offered Wagner more money and convinced her to sing at his Opera house. Lumley
 sued, the argument was that Wagner was someone unique and damages cannot fix
 that, also he'll loose a lot in competition. The court didn't force Wagner to
 perform at the Opera but it forbade Wagner from performing anywhere in London
-for a season. This is negative specific performance.
+for a season so that Lumley doesn't loose from its competition. This is
+negative specific performance.
 
 Reasons for not forcing a specific performance in this case:
-* It is complicated (lot of oversight needed)
+* It is complicated (lot of oversight needed to make sure Wagner performs well)
 * Great intrusion on personal liberty of person
 * Might be unconstitutional in some countries
 
@@ -746,47 +749,53 @@ certainly that The Sellers would have invested that money in mutual funds. They
 are also not entitled to repair expenses because they might have occurred even
 if the The Buyers had kept their part of the contract.
 
+## Cases
 
-## Unit 7: Part 2 Third Parties
+Groves v. John Wonder
+
+Lumley v. Gye
+
+Hector Martinez Co. v. Southern Pacific Transport
+
+
+\newpage
+# Unit 7: Part 2: Third Parties
+
+## Unit Summary
+
+Often, a third party is the intended beneficiary of a contract, in such cases
+(in US) the court allows the third party to directly sue the person breaching
+the contract.
+
+---
+
+* Promissee: The person who promises something
+* Promissor: The person to whom the promise is made
+* Third Party Beneficiary: The person other than the promissor who actually benefits if the promisee
+    keeps her promise.
+
 
 
 Case: Amy buys a bike for $5000 from Zavier on credit, Amy sells another bike
-to Brad for $5000 on a promise that he'll deliver the money next week. Now
-instead of passing on the money herself, she can ask Amy to sign a contract to
-pay the money to Zavier instead.
+to Brad for $5000 on a promise that he'll deliver the money next week. Now,
+when Brad delivers the money, instead of passing on the money herself to
+Zavier, she can ask Brad to sign a contract to pay the money to Zavier instead.
 
-Amy: Promissee
-Brad: Promissor
-Zavier: Third Party Beneficiary
-
-Earlier, Zavier would have to sue Amy and Amy had to sue Brad, if both wins
-their suits, then Amy will get $5000 from Brad, and Zavier will win $5000 from
-Amy which is equivalent for Zavier getting $5000 from Brad.
+If Brad didn't pay, Amy won't be able to pay either. Hence, Zavier would have
+to sue Amy and Amy had to sue Brad, if both wins their suits, then Amy will get
+$5000 from Brad, and Zavier will win $5000 from Amy which is equivalent for
+Zavier getting $5000 from Brad.
 
 Now the US courts allow Zavier to sue Brad directly.
 
-Complications:
-* Brad might be broke, in that case Zavier can sue Amy to get his part of the
-    damages.
 * Thing can get complicated if there is some issues with Amy's part of the
     contract with Brad.
 
 
-If Amy doesn't own anythign to Zavier and Amy's contract with Brad says that
-pay $5000 to Zavier for exchange of bike, then Zavier can sue Brad, he cannot
-sue Amy if she changes her mind, because in effect the contract between Zavier
-and Amy is a contract to make a gift.
-
-
 ## Bank cheque as contract
 
-Bank owes me my money, I owe X some money. So I write a cheque to X. The cheque
-is a contract between me and the bank for the benefit of third party.
-
-This was also discussed in debt, that's how money is created. A bank note is
-also a promise from the bank to pay me some money, and I can give that note to
-someone else to collect that money instead, and that person can give it to
-someone else.
+Bank owes me my money, I owe some money to X. So I write a cheque to X. The
+cheque is a contract between me and the bank for the benefit of third party.
 
 
 ## Chains of Contract
@@ -833,17 +842,9 @@ Here is an example given in a home work question:
     extremely disturbing incident of her remains arriving days later than
     expected.
 
-A contract with B, B's contract with A depends on its contract with C, C
-contract with B depends on its contract D, so on and so forth. Things go well
-till the time they go well, but when something goes wrong, boom!
-
-A sues B, B sues C, C sued D
-
-D's promise might have been small, but it cause big damage to A.
-
 ## Unit Test
 
-Question:
+### Question:
 
     Clayton is a resident of Cambridge, Massachusetts. The City of Cambridge
     has a contract with Waterworks, Inc. Under that contract, Waterworks must
@@ -869,35 +870,34 @@ Question:
     Please state your position and give a reason, then move on to the next
     step.
 
+### Response
+
 
 I believe Clayon should be able to sue Waterworks for the damages as a Third Party Beneficiary.
 
 Assuming no other law applies to the situation and Clayton is a tax paying citizen, a part of Clayton's taxes goes to The City of Cambridge, in return he expects to receive municipality services, this include services from the fire department. Because the fire department failed to deliver their part of the bargain, Clayton should be sue The City of Cambridge. Now, because Waterworks Inc. failed to deliver their contractual obligation with The City of Cambridge, the city should be able to sue Waterworks Inc. Hence, to prevent these double law suits, Clayon should be able to sue Waterworks Inc. directly as a third party beneficiary.
 
 
-## Question
-
-Can I sue Reliance Industries if they fuck with my power supply? Can the
-government sue Reliance Industries if they fuck with power supply? Can I force
-the government to sue Reliance if they fuck with my power supply?
 
 
 
-# Unit 8:
-
-
-* Assignment of Contracts
-* Agency and corporation
+# Unit 8: Agency, Partnerships, Corporations, and Regulation
 
 ## Assignment
 
 ### Video 1
 
 * Barter: The items needs to be exchanged then and there, needs "double
-    coincident"
-* Money: Change money for a good, then buy the required good from soneone else.
+    coincidence"
+
+* Money: Change money for a good, then buy the required good from someone else,
+    no need to "double coincidence"
+
 * Credit: If I don't have money now but hopes to get it later, I can give a
-    promise, a contract to pay later.
+    promise to pay later.
+
+* Assignment of Contract: The seller of the good can sell the promise (the
+    contract) to someone else to get money then and there.
 
 Example: Sohan buys Sandals from Mohan with a promise to pay $100 in October.
 Dead weight loss avoided as we are able to make a deal. Now Mohan needs money
@@ -907,24 +907,22 @@ $10 in October when she gets the money.
 
 ### Video 2
 
-Ihe above example, Mohan is an **obligor**, Sohan is **obligee** he is also an
+In the above example, Mohan is an **obligor**, Sohan is **obligee** he is also an
 **asignor** in his assignment of Sohan's contract to Betty who is the
 **assignee**
 
 ### Video 3: Risks
 
-Risks:
+Risks with contract assignment:
 
 * Death of party
 
 * One parties side of a contract could be contest by the other
 
-* Bankrupcy
+* Bankruptcy of the party
 
-* You get lost
-
-In case of delays from Mohan, Sohan and Mohan might have reached a compromise
-if it was between just two of them, because they are old friends. Now when the
+In case of delays from Mohan. Sohan and Mohan might have reached a compromise
+if it was between just two of them because they are old friends. Now when the
 Banker is involved, the banker is probably a complete stranger to them and she
 will probably not be willing to compromise. In the end, the professor asks,
 "What if everyone digs in their heels?"
@@ -952,22 +950,22 @@ compromising either.
 
 ### Video 4 and Video 5
 
-Remember in the original contract between Mohan and Sohan was for the exchange
-of sandals. Now when Betty Banker comes to Sohan in october to collect $100,
-Sohan can claim that Mohan didn't keep his part of the bargain as the sandals
-were worthless, which is a valid defence. Betty banker shouldn't have to deal
-with all this because it increases her risk.
+Remember the original contract between Mohan and Sohan was for the exchange of
+sandals. Now when Betty Banker comes to Sohan in October to collect $100, Sohan
+can claim that Mohan didn't keep his part of the bargain as the sandals were
+worthless, which is a valid defence. Betty banker shouldn't have to deal with
+all this because it increases her risk.
 
 So the contract between Mohan and Sohan can be more general, he can say "I'll
-pay you $100 in October" that's it, it is called a promisory note. Betty Banker
-is more likely to accept it in exchange of $90 and hence Mohan is more likely
-to accept it for credit. Then the prof discussed how it is similar to bank
-notes. In fact that's how paper notes came to be, they are promises to pay a
-debt to someone. The British notes came to be when the Bank of England gave a
-large some of money ot the government and circulated the debt notes saying
-"take this 1 pound from the government"
+pay you $100 in October" that's it and such a contract is is called a
+**promissory note**. Betty Banker is more likely to accept it in exchange of
+$90 and hence Mohan is more likely to accept it for credit. Then the prof
+discussed how it is similar to bank notes. In fact that's how paper notes came
+to be, they are promises to pay a debt to someone. The British notes came to be
+when the Bank of England gave a large some of money to the government and
+circulated the debt notes saying "take this 1 pound from the government"
 
-The unconditional contract to pay is also called negotiable instrument
+The unconditional contract to pay is also called **negotiable instrument**.
 
 
 ## Agency
@@ -975,14 +973,15 @@ The unconditional contract to pay is also called negotiable instrument
 ### Video 1 and 2
 
 Situation: Prof Fried is an antique glass collector, he wants to participate in
-an auction in another city but he cannot personally go there to buy a bottle he
-might be interested in, and he is willing to pay upto $50 for that, possibilities:
+an auction to buy a particular glass bottle in another city but he cannot
+personally go there to buy a bottle he might be interested in, and he is
+willing to pay upto $50 for that bottle, possibilities:
 
 * He can send a fixed bid of $50 dollars, but might overpay as the final prize
     might be 30
 * He can participate through phone, but it is hard to judge thing over phone.
-* He can ask a friend, Xena, in that city to partcipate in an auction on his behalf
-    for a fee of $5, this friend is called an agent.
+* He can ask a friend, Xena who is in that city to participate in an auction on his behalf
+    for a fee of $5, this friend is an agent.
 
 ### Video 3
 
@@ -1003,47 +1002,52 @@ auctioneer knows that Xena is agent and is not buying on her behalf.
 
 ### Video 2: From Partnership to Corporation
 
-In partnership the investing people have lot of liability, they might loose too
-much. So a bunch can come together, put money in a "black box" and the "black
-box" acts as a principle to the outside world. Its liability doesn't extend to
-the investors. All the investors can loose is their investments.
+In partnership the investors have lot of liability, they might loose too much.
+So a bunch can come together, put money in a "black box" and the "black box"
+acts as a principle to the outside world. Its liability doesn't extend to the
+investors. All the investors can loose is their investments.
 
 
 ### Video 3: Governments and Corporates
 
-Prof Fried talks about how governments creates corporations. In a partnership
-the agents and the principles are real people,  you can say this group of
-people forms the partnership. In a corporate there is nothing tangible that you
-can call a corporate, the investors aren't a corporate, the employees aren't a
-corporate, teh building isn't a corporate, all this together is not a
-corporate. A corporate is an abstract entity and it exists  because government
-allows it and recognizes its relationship and contracts with other entities.
-Though government does it in its own terms, it regulate the corporate in
-several ways and in certain cases it might allow the people hurt by the
-corporate to sue the people behind the corporate wall.
+In this video Prof Fried talks about how governments creates corporations. In a
+partnership the agents and the principles are real people,  you can point to a
+bunch of people and say this group of people forms the partnership. In a
+corporate there is nothing tangible that you can call a corporate, the
+investors aren't a corporate, the employees aren't a corporate, the building
+isn't a corporate, all this together is not a corporate. A corporate is an
+abstract entity and it exists  because government allows and recognizes its
+relationship and contracts with other entities. Though government does it in
+its own terms, it regulate the corporate in several ways and in certain cases
+it might allow the people hurt by the corporate to sue the people behind the
+corporate wall.
 
+<!--
+Comment:
 This is a very interesting, I wonder the nature of finance and commerce before
 the state became so big and so strong. Corporates couldn't exist back then,
 there was no great way to enforce a contract back than other than causing
-reputational damage, that's why it is said that reputation by itself is worth a
+reputation al damage, that's why it is said that reputation by itself is worth a
 lot of business, before the big government why would someone deal with a
-corporate, who would they go after if somethign goes wrong? Well corporates
+corporate, who would they go after if something goes wrong? Well corporates
 still do exist and still operate in countries where government is very weak,
 say Somalia (I'm assuming this, I should look it up), if someone needs to buy a
-phone they need to buy it from a corporate, the selling it directly is ofcourse
-an individual but still it is made by a corporate and teh profits goes to a
+phone they need to buy it from a corporate, the selling it directly is of course
+an individual but still it is made by a corporate and the profits goes to a
 corporate. I guess earlier all the entities people had to deal with say 100
 years ago were tangible and local, maybe not, a university is an institution, a
 government is an institution, you cannot point to a person or a group of
 persons and say this is the university, this is the government so in that sense
 they are a lot like the corporates and they had existed from quite a long time.
 
+-->
+
 
 ## Government Regulation
 
 ### Video 1 & Video 2
 
-Insurance companies are usually corporates, as due to some catastrophy they
+Insurance companies are usually corporates, as due to some catastrophe they
 risk loosing all of the premium they have collected from people, investors in
 the insurance company can only loose their investment and not more than that.
 In certain countries under certain circumstances, it is mandatory for people to
@@ -1060,9 +1064,19 @@ they fall between totally free contracts and totally mandated law like tax.
 
 Intermediate Form of a Contract
 
-Oftentimes, the U.S. government regulates private industries for the benefit of consumers. For example, the U.S. Congress passed and President Barack Obama signed into law the Credit Card Accountability Responsibility and Disclosure Act of 2009 (“CARD Act”). Several of the main provisions address how credit issuers must interact with consumers, like a requirement that credit card companies give consumers 21 days or more to pay their bill from the date of mailing, and another that prohibits payment deadlines from falling on the weekend or mid-day.
+    Oftentimes, the U.S. government regulates private industries for the
+    benefit of consumers. For example, the U.S. Congress passed and President
+    Barack Obama signed into law the Credit Card Accountability Responsibility
+    and Disclosure Act of 2009 (“CARD Act”). Several of the main provisions
+    address how credit issuers must interact with consumers, like a requirement
+    that credit card companies give consumers 21 days or more to pay their bill
+    from the date of mailing, and another that prohibits payment deadlines from
+    falling on the weekend or mid-day.
 
-First, consider why the government intervenes in private contractual relations. Second, make a normative judgment—determine whether you believe government intervention on behalf of consumers is the right approach, and include arguments justifying your position.
+    First, consider why the government intervenes in private contractual
+    relations. Second, make a normative judgment—determine whether you believe
+    government intervention on behalf of consumers is the right approach, and
+    include arguments justifying your position.
 
 #### Response
 
@@ -1099,6 +1113,7 @@ Such intervention is not required in Business to Business (B2B) contracts.
 
 
 
+<!-- 
 ## Questions and Thoughts
 
 
@@ -1112,43 +1127,36 @@ there is a huge inhertence tax, so not maybe not worth it.
 
 * What happens when a insurance company goes bust
 
+-->
+
 ## Unit Test
 
 
 ### Scenario 3
 
-After successfully passing the Affordable Care Act, which requires
-individuals to carry health insurance or pay a “tax” for failing to have
-health insurance, the United States government decided to pursue another
-program. This legislation, called the “Protecting Future Tort Victims Act,”
-seeks to require every individual over the age of 18 to have general
-liability insurance that covers any unintentional torts committed by the
-policy-holder. Surprisingly to political commentators, the law passed and
-individuals now must carry general liability insurance. Lola owns a farm
-with many chickens, and often gives their eggs to her friends and
-neighbors. Earlier this morning, while carrying a bowl with a dozen fresh
-eggs, she tripped over a chair and dropped the bowl, causing the eggs to
-splatter all over the kitchen floor. She negligently failed to clean up the
-mess before Harrison stopped by to pick up eggs. He slipped and injured his
-back. Lola did not have the requisite general liability insurance and was
-fined by the government. In addition to the fines, she was required to pay
-Harrison for the damages resulting from committing a negligent tort.
+    After successfully passing the Affordable Care Act, which requires
+    individuals to carry health insurance or pay a “tax” for failing to have
+    health insurance, the United States government decided to pursue another
+    program. This legislation, called the “Protecting Future Tort Victims Act,”
+    seeks to require every individual over the age of 18 to have general
+    liability insurance that covers any unintentional torts committed by the
+    policy-holder. Surprisingly to political commentators, the law passed and
+    individuals now must carry general liability insurance. Lola owns a farm
+    with many chickens, and often gives their eggs to her friends and
+    neighbors. Earlier this morning, while carrying a bowl with a dozen fresh
+    eggs, she tripped over a chair and dropped the bowl, causing the eggs to
+    splatter all over the kitchen floor. She negligently failed to clean up the
+    mess before Harrison stopped by to pick up eggs. He slipped and injured his
+    back. Lola did not have the requisite general liability insurance and was
+    fined by the government. In addition to the fines, she was required to pay
+    Harrison for the damages resulting from committing a negligent tort.
 
-Short Answer, 2 Parts Now, assume that Lola (1) is organized as a
-corporation, or (2) formed a partnership with neighbor Nelly. Who would be
-liable in each of these situations, and is that a more or less desirable
-result than imposing direct personal liability on Lola?
+    Short Answer,
+    2 Parts Now, assume that Lola (1) is organized as a
+    corporation, or (2) formed a partnership with neighbor Nelly. Who would be
+    liable in each of these situations, and is that a more or less desirable
+    result than imposing direct personal liability on Lola?
 
 ### Response
 
 If Lola's farm is organized as a corporation, then she won't be personally for the committing a negligent tort. If she forms a partnership with Nelly, he neighbour then both of them will be liable for damages. Both of these less desirable than imposing direct personal liability on Lola because Lola's negligence was her's alone, she should not be allowed to escape the liability or offload a part of it to someone else because of the organization of her farm. We need to draw a distinction between acts done in personal capacity and act done as part of the organization.
-
-
-# Book
-
-## Duress
-
-An involuntary contract or a contract under force is not enforcible.
-
-If someone "gives" my consent to something through Aadhaar, is there a way to
-take it back?
